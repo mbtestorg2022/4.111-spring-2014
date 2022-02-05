@@ -23,12 +23,57 @@ Course Learning Objectives
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Completion of assigned exercises by the stated due dates | 40 |
-| Level of craft and quality of the execution | 30 |
-| Clarity of design intent | 20 |
-| Participation in discussions | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Completion of assigned exercises by the stated due dates
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Level of craft and quality of the execution
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Clarity of design intent
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in discussions
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance for the full duration of each studio and lecture is mandatory. The studio is an exceptional learning environment that requires your physical as well as your intellectual presence. You are allowed three excused absences for the semester. Absences beyond the three allotted will result in a decrease in your final grade. If you six or more studio classes, you will be asked to drop the subject or receive a failing grade.
 
