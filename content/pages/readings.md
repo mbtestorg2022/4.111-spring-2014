@@ -38,7 +38,7 @@ Morrison, P. & P., C. & R. Eames. Selection from _Powers of Ten: a Book about th
 
 Corner, J. "The Medium of Drawing: Projection, Notation and Representation." In _Theory in Landscape Architecture: A Reader_. Edited by S. Swaffield. University of Pennsylvania Press, 2002, pp. 149–65. ISBN: 9780812218213. \[Preview with [Google Books](http://books.google.com/books?id=7jxGSGbrhEUC&printsec=frontcover)\]
 
-Moneo, R. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[On Typology." (PDF 10.3MB)](http://rodas.us.es/file/96de7b96-32aa-d984-eebd-82a2efd75d27/2/moneo_on_tipology_SCORM.zip/files/moneo_on_tipology.pdf) _Oppositions_ 13 (1978): 22–45.
+Moneo, R. "[On Typology." (PDF 10.3MB)](http://rodas.us.es/file/96de7b96-32aa-d984-eebd-82a2efd75d27/2/moneo_on_tipology_SCORM.zip/files/moneo_on_tipology.pdf) _Oppositions_ 13 (1978): 22–45.
 
 ### Films and Links
 
@@ -252,7 +252,7 @@ Spirn, A. W. _The Granite Garden: Urban Nature and Human Design_. Basic Books, 1
 
 ———. The Language of Landscape. Yale University Press, 1998. ISBN: 9780300077452.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Poetics of City and Nature: Toward a New Aesthetic for Urban Design." (PDF)](http://www.annewhistonspirn.com/pdf/LJ.pdf) _Landscape Journal_ 7, no. 2 (1988): 108–26.
+———. ["The Poetics of City and Nature: Toward a New Aesthetic for Urban Design." (PDF)](http://www.annewhistonspirn.com/pdf/LJ.pdf) _Landscape Journal_ 7, no. 2 (1988): 108–26.
 
 ———. [The Eye is a Door](http://www.theeyeisadoor.com/). Wolf Tree Press, 2014.
 
