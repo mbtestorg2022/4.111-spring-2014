@@ -7,6 +7,7 @@ image_metadata:
   caption: Drawing of projection of thread model.
   credit: ''
   image-alt: Line drawing connecting two sets of points on opposing sides.
+parent_uid: 42db91c5-8238-1124-9345-ca68a96237aa
 resourcetype: Image
 title: drawing_mit2_ex2.jpg
 uid: 7411c002-ce8e-86c1-1d05-ce0c20ac0c1e

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: pen_ab_ex1.jpg
 uid: 3d724e69-f6f8-a9a0-37c5-ea1785183145

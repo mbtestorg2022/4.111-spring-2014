@@ -7,6 +7,7 @@ image_metadata:
   caption: Nine diagrams of square grids representing cuts in the cube.
   credit: ''
   image-alt: Nine, six-by-six grids with three line segments outlined in each.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: 9grid_mit1_ex3.jpg
 uid: 17636f49-23e0-177b-e04d-988f49538090

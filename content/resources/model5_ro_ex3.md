@@ -7,6 +7,7 @@ image_metadata:
   caption: Perspective of cube model in open position.
   credit: ''
   image-alt: Photograph of bass wood cube model with shifted portions of the cube.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: model5_ro_ex3.jpg
 uid: 7bd95ea8-1cc7-6357-9e35-48cce77691ca

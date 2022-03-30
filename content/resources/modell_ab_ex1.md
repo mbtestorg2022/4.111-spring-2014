@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: modelL_ab_ex1.jpg
 uid: 85748602-0435-dffe-0945-0c3004d1b462

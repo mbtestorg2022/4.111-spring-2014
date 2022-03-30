@@ -7,6 +7,7 @@ image_metadata:
   caption: Side perspective of model.
   credit: ''
   image-alt: Photograph of white model with extruded and intersecting planes.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: modelS_kw_ex1.jpg
 uid: 32301cc6-edb4-4a76-14a1-52a316eea44b

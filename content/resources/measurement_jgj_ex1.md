@@ -7,6 +7,7 @@ image_metadata:
   caption: Measurement chart and diagram.
   credit: ''
   image-alt: Chart containing ten sets of measurements and drawings of hand and body.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: measurement_jgj_ex1.jpg
 uid: c76ce828-fde5-f970-f48a-b3825bafbc6c

@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Student standing in front of instructors with her project drawings and
     models.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: measurement_kw_ex1.jpg
 uid: 6cce7a80-f702-24dd-6d60-5208b168f871

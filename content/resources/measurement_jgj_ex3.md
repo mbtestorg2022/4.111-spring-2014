@@ -7,6 +7,7 @@ image_metadata:
   caption: Measurement chart and diagram.
   credit: ''
   image-alt: Chart containing diagrams of yoga movements and measurements.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: measurement_jgj_ex3.jpg
 uid: 099d1145-56b5-b9f0-580c-2ddcbdbe674e

@@ -7,6 +7,7 @@ image_metadata:
   caption: Axonometric drawing of open cube.
   credit: ''
   image-alt: Axonometric of a figure originating from a cube.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: axon_ro_ex3.jpg
 uid: 68fb812b-b039-f3ae-5d7a-3e36bf9e9671

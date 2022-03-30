@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photograph of bass wood cube model on basewith shifted portions of the
     cube.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: model6_hs_ex3.jpg
 uid: 04118d16-0e49-ccf1-04e3-1c3b6191fe25

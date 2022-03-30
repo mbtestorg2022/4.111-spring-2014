@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: wire_ab_ex1.jpg
 uid: 39a309ef-8b84-7f09-671e-5a890eecddad

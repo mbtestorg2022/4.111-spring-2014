@@ -7,6 +7,7 @@ image_metadata:
   caption: Front-facing perspective of model.
   credit: ''
   image-alt: Photograph of white model with decreasing height of extruded planes.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: modelF_mh_ex1.jpg
 uid: 837d27b2-fa30-995a-8e84-de83090ab833

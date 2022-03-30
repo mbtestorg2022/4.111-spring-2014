@@ -7,6 +7,7 @@ image_metadata:
   caption: Section drawing of cube.
   credit: ''
   image-alt: One drawing of square with lines showing different sectional quality.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: sections_mit1_ex3.jpg
 uid: 0d7daf0a-8767-459f-9f30-3294e50e0cd1

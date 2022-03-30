@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: modelR_ab_ex1.jpg
 uid: 27f383b7-4128-0b37-249f-52aee313383b

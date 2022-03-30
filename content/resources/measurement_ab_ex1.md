@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: measurement_ab_ex1.jpg
 uid: 48896a7d-912a-8a5f-5504-470c08bc8096

@@ -7,6 +7,7 @@ image_metadata:
   caption: Left perspective of model.
   credit: ''
   image-alt: Photograph of white model with many extruded and intersecting planes.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: modelL_jgj_ex1.jpg
 uid: b3f1ed88-86d8-9591-5755-567cdefd2454

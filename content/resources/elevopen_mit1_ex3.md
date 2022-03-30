@@ -7,6 +7,7 @@ image_metadata:
   caption: Six elevations of open cube.
   credit: ''
   image-alt: Six drawings of different configurations originating from a square.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: elevOpen_mit1_ex3.jpg
 uid: c9db5351-b83a-5042-2c16-93b6377efb2e

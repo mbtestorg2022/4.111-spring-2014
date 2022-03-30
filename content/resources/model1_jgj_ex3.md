@@ -7,6 +7,7 @@ image_metadata:
   caption: Perspective of cube model in closed position.
   credit: ''
   image-alt: Photograph of bass woodcube model with shifted portions of the cube.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: model1_jgj_ex3.jpg
 uid: e7d5c9fa-cbe1-a5b0-7e10-a52699ba8ac6

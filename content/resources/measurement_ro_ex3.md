@@ -7,6 +7,7 @@ image_metadata:
   caption: Measurement chart and diagram.
   credit: ''
   image-alt: Chart containing diagrams of polo movements and measurements.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: measurement_ro_ex3.jpg
 uid: 3fe0b5d6-990e-0564-7b66-af87fb99dbd5

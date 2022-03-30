@@ -7,6 +7,7 @@ image_metadata:
   caption: Freehand pencil tracing of wire projection.
   credit: ''
   image-alt: Three layers of angled lines sketched in pencil.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: pencilFree_mh_ex1.jpg
 uid: 38c27313-abfe-837c-ca29-ac961f5d106f

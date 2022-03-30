@@ -7,6 +7,7 @@ image_metadata:
   caption: Pen drawing of wire projection.
   credit: ''
   image-alt: Three layers of angled lines drawn in pen.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: pen_mh_ex1.jpg
 uid: 9d5da999-d92a-c17a-0d64-c40b6080e759

@@ -7,6 +7,7 @@ image_metadata:
   caption: Front-facing perspective of model.
   credit: ''
   image-alt: Photograph of white model with extruded and intersecting planes.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: modelF_kw_ex1.jpg
 uid: 7fadb3e0-4645-b8f4-92fd-0d84fe81eab7

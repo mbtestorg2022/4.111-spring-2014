@@ -7,6 +7,7 @@ image_metadata:
   caption: Six elevations of open cube.
   credit: ''
   image-alt: Six drawings of different configurations originating from a square.
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: elevClosed_jgj_ex3.jpg
 uid: d5b5c691-ff18-70d2-34c1-af4d131742d3

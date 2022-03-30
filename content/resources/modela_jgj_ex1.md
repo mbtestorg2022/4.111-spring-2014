@@ -7,6 +7,7 @@ image_metadata:
   caption: Aerial perspective of model.
   credit: ''
   image-alt: Photograph of white model with extruded and intersecting planes.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: modelA_jgj_ex1.jpg
 uid: 496a40f4-d512-8e38-c452-ab436da4f225

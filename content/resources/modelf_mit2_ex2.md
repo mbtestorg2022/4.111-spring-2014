@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photograph of thread model with thread mapping out connections between
     two acrylic plates.
+parent_uid: 42db91c5-8238-1124-9345-ca68a96237aa
 resourcetype: Image
 title: modelF_mit2_ex2.jpg
 uid: 4dc29e0f-9408-19b6-d9f8-931d3efeebc8

@@ -7,6 +7,7 @@ image_metadata:
   caption: Side perspective of model.
   credit: ''
   image-alt: Photograph of white model with decreasing height of extruded planes.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: modelS_mh_ex1.jpg
 uid: 610ecc14-6fb7-7f8e-9c72-aec8b0b2c5cf

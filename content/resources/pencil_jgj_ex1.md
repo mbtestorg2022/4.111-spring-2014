@@ -7,6 +7,7 @@ image_metadata:
   caption: Pencil drawing of wire projection.
   credit: ''
   image-alt: Three layers of angled lines drawn in penc.
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: pencil_jgj_ex1.jpg
 uid: fe85bae3-7e5e-a23c-ae5f-7e0f076a63be
